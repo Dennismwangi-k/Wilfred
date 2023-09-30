@@ -1,0 +1,9 @@
+myenv/
+__pycache__/
+images/
+.env
+feature/oder
+myenv
+
+uploads/
+dev
